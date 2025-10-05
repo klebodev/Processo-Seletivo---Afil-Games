@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Vectors",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Vectors",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Scripts/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
